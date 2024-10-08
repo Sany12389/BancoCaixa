@@ -1,4 +1,4 @@
-# BancoCaix
+# Banco Caixa
 <hr>
 
 - [x] Estruturas de decisão: Verificar o saldo, tipo de conta, valor do
